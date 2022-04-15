@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "000000000000000000000001"
+  },
+  "schlagwoerter": [
+    "JAVASCRIPT"
+  ],
+  "homepage": "https://acme.at/",
+  "isbn": "9783897225831",
+  "datum": {
+    "$date": "2021-02-01T00:00:00Z"
+  },
+  "lieferbar": true,
+  "rabatt": 0.011,
+  "preis": 11.1,
+  "verlag": "FOO_VERLAG",
+  "art": "DRUCKAUSGABE",
+  "rating": 4,
+  "titel": "Alpha",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-26T10:28:01.777Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-26T10:28:01.777Z"
+  }
+},{
+  "_id": {
+    "$oid": "000000000000000000000002"
+  },
+  "schlagwoerter": [
+    "TYPESCRIPT"
+  ],
+  "homepage": "https://acme.biz/",
+  "isbn": "9783827315526",
+  "datum": {
+    "$date": "2021-02-02T00:00:00Z"
+  },
+  "lieferbar": true,
+  "rabatt": 0.022,
+  "preis": 22.2,
+  "verlag": "FOO_VERLAG",
+  "art": "DRUCKAUSGABE",
+  "rating": 2,
+  "titel": "Beta Cypress",
+  "__v": 2,
+  "createdAt": {
+    "$date": "2021-10-26T10:28:01.777Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-20T16:24:28.282Z"
+  }
+},{
+  "_id": {
+    "$oid": "000000000000000000000003"
+  },
+  "schlagwoerter": [
+    "JAVASCRIPT",
+    "TYPESCRIPT"
+  ],
+  "homepage": "https://acme.com/",
+  "isbn": "9780201633610",
+  "datum": {
+    "$date": "2021-02-03T00:00:00Z"
+  },
+  "lieferbar": true,
+  "rabatt": 0.033,
+  "preis": 33.3,
+  "verlag": "FOO_VERLAG",
+  "art": "DRUCKAUSGABE",
+  "rating": 1,
+  "titel": "Gamma",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-26T10:28:01.777Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-26T10:28:01.777Z"
+  }
+},{
+  "_id": {
+    "$oid": "000000000000000000000004"
+  },
+  "schlagwoerter": [],
+  "homepage": "https://acme.de/",
+  "isbn": "978038753406",
+  "datum": {
+    "$date": "2021-02-04T00:00:00Z"
+  },
+  "lieferbar": true,
+  "rabatt": 0.044,
+  "preis": 44.4,
+  "verlag": "BAR_VERLAG",
+  "art": "DRUCKAUSGABE",
+  "rating": 3,
+  "titel": "Delta",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-26T10:28:01.778Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-26T10:28:01.778Z"
+  }
+},{
+  "_id": {
+    "$oid": "000000000000000000000005"
+  },
+  "schlagwoerter": [
+    "TYPESCRIPT"
+  ],
+  "homepage": "https://acme.es/",
+  "isbn": "9783824404810",
+  "datum": {
+    "$date": "2021-02-05T00:00:00Z"
+  },
+  "lieferbar": true,
+  "rabatt": 0.055,
+  "preis": 55.5,
+  "verlag": "FOO_VERLAG",
+  "art": "KINDLE",
+  "rating": 2,
+  "titel": "Epsilon",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-26T10:28:01.778Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-26T10:28:01.778Z"
+  }
+},{
+  "_id": {
+    "$oid": "000000000000000000000006"
+  },
+  "schlagwoerter": [
+    "TYPESCRIPT"
+  ],
+  "homepage": "https://acme.it/",
+  "isbn": "9783540430810",
+  "datum": {
+    "$date": "2021-02-06T00:00:00Z"
+  },
+  "lieferbar": true,
+  "rabatt": 0.066,
+  "preis": 66.6,
+  "verlag": "FOO_VERLAG",
+  "art": "KINDLE",
+  "rating": 2,
+  "titel": "Phi",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-26T10:28:01.778Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-26T10:28:01.778Z"
+  }
+},{
+  "_id": {
+    "$oid": "619cc2326c171d84264cf2f0"
+  },
+  "schlagwoerter": [
+    "JAVASCRIPT",
+    "TYPESCRIPT"
+  ],
+  "homepage": "https://test.de/",
+  "isbn": "0-0070-0644-6",
+  "datum": {
+    "$date": "2020-02-01T00:00:00Z"
+  },
+  "lieferbar": true,
+  "rabatt": 0.1,
+  "preis": 99.9,
+  "verlag": "FOO_VERLAG",
+  "art": "KINDLE",
+  "rating": 1,
+  "titel": "Testrest",
+  "createdAt": {
+    "$date": "2021-11-23T10:28:02.958Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-23T10:28:02.958Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c0ac30975ff836a89052ce"
+  },
+  "schlagwoerter": [
+    "TYPESCRIPT"
+  ],
+  "isbn": "0-6579-1498-3",
+  "datum": {
+    "$date": "2021-12-20T00:00:00Z"
+  },
+  "lieferbar": true,
+  "rabatt": 0.09,
+  "preis": 999,
+  "verlag": "BAR_VERLAG",
+  "art": "KINDLE",
+  "rating": 2,
+  "titel": "Neues Buch Cypress",
+  "createdAt": {
+    "$date": "2021-12-20T16:15:44.294Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-20T16:15:44.294Z"
+  },
+  "__v": 0
+}]
